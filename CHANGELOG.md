@@ -9,6 +9,10 @@ Note: In this file, do not use the hard wrap in the middle of a sentence for com
 -->
 
 ## [Unreleased]
+## [1.0.8] - 2024-12-12
+
+- bump deps
+
 ## [1.0.7] - 2024-10-20
 
 - bump rom_cache: now, more immutable ref can be held at the same time
